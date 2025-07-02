@@ -71,9 +71,9 @@ https://script.google.com/macros/s/AKfycbztdxz4Cm5x03Xs_1mdX9Uxkf4g51FqohS-SqoAn
 1. `Nome do runner` - Nome, usamos o nome que todos conhecem, entao em vez de shyaya, apenas shy
 2. `Tempo da run` - Tempo da run (MM:SS.mmm)
 3. `Seed Name` - Nome da seed, a comunidade da o nome para as seeds de SSG, como dolphin, vine, gravel
-4. `Verificada` - Verificada (sim ou nao)
-5. `Video` - Link do video da run
-6. `Data da run` - Data da run
+4. `Data da run` - Data da run
+5. `Verificada` - Verificada (sim ou nao)
+6. `Video` - Link do video da run
 7. `Comentario` - Comentario sobre a run
 
 ### Runners
