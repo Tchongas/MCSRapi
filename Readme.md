@@ -4,17 +4,17 @@
 
 ### Runs de 1.16 RSG
 ```
-GET https://script.google.com/macros/s/AKfycbztdxz4Cm5x03Xs_1mdX9Uxkf4g51FqohS-SqoAn28CPuvMAAJgdJsYhstp57PogdY4/exec?action=getrsg116
+https://script.google.com/macros/s/AKfycbztdxz4Cm5x03Xs_1mdX9Uxkf4g51FqohS-SqoAn28CPuvMAAJgdJsYhstp57PogdY4/exec?action=getrsg116
 ```
 
 ### Runs de 1.16 SSG
 ```
-GET https://script.google.com/macros/s/AKfycbztdxz4Cm5x03Xs_1mdX9Uxkf4g51FqohS-SqoAn28CPuvMAAJgdJsYhstp57PogdY4/exec?action=getssg116
+https://script.google.com/macros/s/AKfycbztdxz4Cm5x03Xs_1mdX9Uxkf4g51FqohS-SqoAn28CPuvMAAJgdJsYhstp57PogdY4/exec?action=getssg116
 ```
 
 ### Info de todos os Runners
 ```
-GET https://script.google.com/macros/s/AKfycbztdxz4Cm5x03Xs_1mdX9Uxkf4g51FqohS-SqoAn28CPuvMAAJgdJsYhstp57PogdY4/exec?action=getrunners
+https://script.google.com/macros/s/AKfycbztdxz4Cm5x03Xs_1mdX9Uxkf4g51FqohS-SqoAn28CPuvMAAJgdJsYhstp57PogdY4/exec?action=getrunners
 ```
 
 ## Respostas
@@ -58,25 +58,25 @@ GET https://script.google.com/macros/s/AKfycbztdxz4Cm5x03Xs_1mdX9Uxkf4g51FqohS-S
 ## Descrição de cada campo
 
 ### 1.16 RSG
-1. `Runner Name` - Nome do runner
-2. `Time` - Tempo da run (MM:SS)
+1. `Nome do runner` - Nome, usamos o nome que todos conhecem, entao em vez de shyaya, apenas shy
+2. `Tempo da run` - Tempo da run (MM:SS)
 3. `Bastion` - Bastion da run
-4. `Date` - Data da run (DD/MM/YY)
-5. `Verified` - Verificada (sim ou nao)
-6. `Seed Value` - Numero da seed
-7. `Video URL` - Link do video da run
-8. `Comment` - Comentario sobre a run
+4. `Data da run` - Data da run (DD/MM/YY)
+5. `Verificada` - Verificada (sim ou nao)
+6. `Seed` - Numero da seed
+7. `Video` - Link do video da run
+8. `Comentario` - Comentario sobre a run
 
 ### 1.16 SSG
-1. `Runner Name` - Nome do runner
-2. `Time` - Tempo da run (MM:SS.mmm)
-3. `Seed Name` - Nome da seed
-4. `Verified` - Verificada (sim ou nao)
-5. `Video URL` - Link do video da run
-6. `Date` - Data da run
-7. `Comment` - Comentario sobre a run
+1. `Nome do runner` - Nome, usamos o nome que todos conhecem, entao em vez de shyaya, apenas shy
+2. `Tempo da run` - Tempo da run (MM:SS.mmm)
+3. `Seed Name` - Nome da seed, a comunidade da o nome para as seeds de SSG, como dolphin, vine, gravel
+4. `Verificada` - Verificada (sim ou nao)
+5. `Video` - Link do video da run
+6. `Data da run` - Data da run
+7. `Comentario` - Comentario sobre a run
 
 ### Runners
-1. `Runner Name` - Nome, usamos o nome que todos conhecem, entao em vez de shyaya, apenas shy
-2. `State` - Estado
-3. `Color` - Cor
+1. `Nome do runner` - Nome, usamos o nome que todos conhecem, entao em vez de shyaya, apenas shy
+2. `Estado` - Estado
+3. `Cor` - Cor
